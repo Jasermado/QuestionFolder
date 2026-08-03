@@ -1,0 +1,6 @@
+openai>=1.0.0
+Pillow>=10.0.0
+pynput>=1.7.7
+pyperclip>=1.8.2
+python-dotenv>=1.0.1
+winotify>=1.1.0; platform_system == "Windows"
